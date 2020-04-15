@@ -1,3 +1,5 @@
 def oxford_comma(array)
-["kiwi, durain"].join
+iff array.lenght==2
+  return "#{array[1]" and #{array[2]""
 end
+array.join
